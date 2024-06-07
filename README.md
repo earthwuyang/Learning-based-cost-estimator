@@ -6,10 +6,10 @@ Materialized View and even Index Selection.
 
 ### Unitest
 ```bash
-export PYTHONPATH=src/
-python -m unittest src.test.test_feature_extraction.TestFeatureExtraction
-python -m unittest src.test.test_feature_encoding.TestFeatureEncoding
-python -m unittest src.test.test_training.TestTraining
+export PYTHONPATH=Learning-based-cost-estimator/
+python -m unittest Learning-based-cost-estimator.test.test_feature_extraction.TestFeatureExtraction
+python -m unittest Learning-based-cost-estimator.test.test_feature_encoding.TestFeatureEncoding
+python -m unittest Learning-based-cost-estimator.test.test_training.TestTraining
 ```
 
 ### Datasets
