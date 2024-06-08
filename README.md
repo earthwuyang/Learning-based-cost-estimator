@@ -4,6 +4,8 @@ Source code of Feature Encoding and Model Training for cardinality and cost esti
 The tree-structured model can generate representations for sub-plans which could be used by other query processing tasks like Join Reordering,
 Materialized View and even Index Selection.
 
+Use toach14 conda environment on qh3 server.
+
 ### Unitest
 ```bash
 export PYTHONPATH=Learning-based-cost-estimator/
