@@ -14,6 +14,9 @@ python -m unittest Learning-based-cost-estimator.test.test_feature_encoding.Test
 python -m unittest Learning-based-cost-estimator.test.test_training.TestTraining
 ```
 
+### FeatureExtraction
+parse plans.json to analyzed plan sequence plans_seq.json
+
 ### Datasets
 For Nemerical workload: https://github.com/andreaskipf/learnedcardinalities  
 
